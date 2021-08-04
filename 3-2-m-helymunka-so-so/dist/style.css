@@ -1,0 +1,73 @@
+div.text {
+  width: 600px;
+  margin: auto;
+}
+img {
+  width: 1200px;
+  text-align: center;
+}
+.bemutatkozas{
+  position: absolute;
+  top: 205px;
+}
+h1{
+  font-family: 'Abril Fatface', cursive;
+  margin-bottom: 0;
+}
+h1.nameAS {
+  font-size: 60px;
+  margin-top: 0;
+}
+h2.bigger {
+  text-transform: uppercase;
+}
+h2, h3, p, ul{
+  font-family: 'Josefin Sans', sans-serif;
+  margin-bottom: 0;
+}
+h2, h3 {
+  font-weight: bolder;
+}
+h4 {
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
+  margin-top: 0;
+  color: dimgrey;
+}
+blockquote {
+  width: 700px;
+  color: white;
+  background: dimgrey;
+  display: flex;
+  font-size: 20px;
+  padding-bottom: 20px;
+  margin-left: 0;
+}
+/* h1.bq {
+  width: 1000px;
+  margin: auto;
+} */
+h2.vonal {
+  border-top: 2px solid black;
+  padding-top: 30px;
+  
+}
+h1.idezo {
+  font-size: 50px;
+}
+
+
+
+
+
+
+/* Betűtípusok:
+font-family: 'Abril Fatface', cursive;
+#222 grey
+
+font-family: 'Josefin Sans', sans-serif;
+#222 grey
+
+font-family: 'Merriweather', serif;
+15px italic
+*/
